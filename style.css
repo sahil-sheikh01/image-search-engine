@@ -5,6 +5,7 @@
     box-sizing: border-box;
 }
 body{
+    width: 100%;
     background: #222;
     color: #fff;
 }
